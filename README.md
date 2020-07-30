@@ -1,6 +1,6 @@
-# E-Commerce CMS
+# E-Commerce
 
-E-Commerce CMS is an server-side / admin-side application to manage E-Commerce client-side. This app has:
+E-Commerce is an client-side application for customer. This app has:
 * RESTful endpoint for Product CRUD Operation
 * RESTful endpoint for User Login & Register Operation
 * RESTful endpoint for Add Cart and Checkout Operation
